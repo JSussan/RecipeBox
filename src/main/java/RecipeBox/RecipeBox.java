@@ -16,12 +16,6 @@ import java.util.ArrayList;
  * @title   RecipeBox class
  */
 
-/**
- *
- * @author jonathansussan
- */
-
-
 public class RecipeBox {
     // Private variables
     private ArrayList<Recipe> listOfRecipes;
